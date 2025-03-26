@@ -271,16 +271,16 @@ sudo apt-get install trivy -y
   ```bash
   argocd cluster list
   ```
-  ![image](Images/24.PNG)
+  ![image](Images/29.PNG)
   - <b>Get your cluster name</b>
   ```bash
   kubectl config get-contexts
   ```
- ![image](Images/25.PNG)
+ ![image](Images/24.PNG)
 
   - <b>Add your cluster to argocd</b>
   ```bash
-  argocd cluster add Madhup@bankapp.us-west-1.eksctl.io --name bankapp-eks-cluster
+  argocd cluster add Namrata@bankapp.us-west-1.eksctl.io --name bankapp-eks-cluster
   ```
   > [!Tip]
   > Namrata@bankapp.us-west-1.eksctl.io --> This should be your EKS Cluster Name.

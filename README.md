@@ -288,12 +288,12 @@ sudo apt-get install trivy -y
  ![image](Images/26.PNG)
 
   - <b> Once your cluster is added to argocd, go to argocd console <mark>Settings --> Clusters</mark> and verify it</b>
- ![image](Images/27.argooutput.PNG)
+ ![image](Images/27.PNG)
 
 
 #
 - <b>Go to <mark>Settings --> Repositories</mark> and click on <mark>Connect repo</mark> </b>
-![image]([Images/27.argooutput.PNG))
+![image]([Images/27.PNG))
 
 
 > [!Note]

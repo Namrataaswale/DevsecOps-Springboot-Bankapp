@@ -293,7 +293,7 @@ sudo apt-get install trivy -y
 
 #
 - <b>Go to <mark>Settings --> Repositories</mark> and click on <mark>Connect repo</mark> </b>
-![image](Images/28.PNG)
+![image]([Images/27.argooutput.PNG))
 
 
 > [!Note]
